@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-scraper-example",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.5.1"
+  }
+}
